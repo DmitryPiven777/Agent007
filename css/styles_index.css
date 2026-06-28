@@ -76,7 +76,7 @@ body {
 		/*  background-image: url('/images/agent007.jpg';   */
 	}
 
-	.site-hello__text2 h3 {
+	.site-hello__text2 h3, a {
 		font-size: 35px;
 		text-align: center;
 		padding-bottom: 20px;
