@@ -76,7 +76,14 @@ body {
 		/*  background-image: url('/images/agent007.jpg';   */
 	}
 
-	.site-hello__text2 h3, a {
+	.site-hello__text2 h3s {
+		font-size: 35px;
+		text-align: center;
+		padding-bottom: 20px;
+		font-family: serif;
+	}
+
+	.site-hello__text2 a {
 		font-size: 35px;
 		text-align: center;
 		padding-bottom: 20px;
